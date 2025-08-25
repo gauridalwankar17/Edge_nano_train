@@ -1,0 +1,15 @@
+# Core deep learning
+torch>=2.2.0
+torchvision>=0.17.0
+
+# Training utilities
+tqdm>=4.66.0
+
+# MQTT client
+paho-mqtt>=1.6.1
+
+# Dashboard UI
+streamlit>=1.33.0
+
+# Image processing
+Pillow>=10.0.0
